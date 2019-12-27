@@ -1,5 +1,5 @@
 // this version uses the setMessage(msg, color) for the text color input and validate number ensures correct message and that out-of range numbers don't count
-
+//
 
 // Game values
 let min = 1,
